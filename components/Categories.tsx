@@ -19,7 +19,7 @@ const Categories = () => {
         height="700"
         className="brightness-75"
       />
-      <div className="absolute bg-slate-50 p-8  top-[40%] left-[36%]">
+      <div className="absolute bg-slate-50 p-9  top-[40%] left-[36%]">
         <div className="flex flex-row justify-center items-center h-full space-x-4">
           <Button className="rounded-none px-8 py-5">Shop Travel</Button>
           <Button variant={"outline"} className="rounded-none px-8 py-5">
