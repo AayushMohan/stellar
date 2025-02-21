@@ -1,3 +1,4 @@
+import Card from "@/components/Card";
 import Categories from "@/components/Categories";
 import Collections from "@/components/Collections";
 import Header from "@/components/Header";
@@ -17,6 +18,9 @@ export default function Home() {
       </section>
       <section className="pb-10">
         <Collections />
+      </section>
+      <section>
+        <Card />
       </section>
     </div>
   );
